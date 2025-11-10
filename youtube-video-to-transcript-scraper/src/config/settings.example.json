@@ -1,0 +1,8 @@
+{
+  "output_dir": "data",
+  "output_format": "json",
+  "language_code": null,
+  "headers": {},
+  "cookies": "",
+  "notes": "Copy this file to settings.json and adjust values to customize behavior."
+}
