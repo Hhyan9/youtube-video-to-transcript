@@ -1,0 +1,2 @@
+youtube-transcript-api==0.6.2
+openpyxl==3.1.2
